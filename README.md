@@ -1,4 +1,5 @@
 # About Me
-- 👀 I’m a full-stack developer focused on multplatform development using Flutter as a Front-End Tool and Go as a Back-End Tool to develop APIs;
-- 🌱 I’m currently improving my devolopment skills and learning more about Software Archtecture to improve the softwares i develop;
-- 💞️ I’m a co-founder of a software company called Triangle-BR and, rigth now, i'm looking to collaborate on companies that wants to make the world an effient and better place, and are comited to teach and be responsible to their collaborators;
+- 👀 I’m a midlevel frontend developer focused on multplatform development using Dart/Flutter. I also know Kotlin for Native Android in a basic level;
+- 👀 I know the basics of Go and SQL for PostgreSQL to develop a basic API;
+- 🌱 I’m currently improving my devolopment skills by learning Jetpack Compose and getting better at Kotlin to develop Flutter Native Plugins using Channels;
+- 💞️ I’m a co-founder of a software company called Triangle-BR to help other intitutions to grow using our software solutions;
